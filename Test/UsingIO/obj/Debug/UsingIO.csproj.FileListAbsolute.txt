@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\UsingIO\bin\Debug\UsingIO.exe.config
+C:\Users\csadasiv\source\repos\Test\UsingIO\bin\Debug\UsingIO.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO\bin\Debug\UsingIO.pdb
+C:\Users\csadasiv\source\repos\Test\UsingIO\obj\Debug\UsingIO.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO\obj\Debug\UsingIO.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO\obj\Debug\UsingIO.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO\obj\Debug\UsingIO.pdb

@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\bin\Debug\ReferencesToMethods.exe.config
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\bin\Debug\ReferencesToMethods.exe
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\bin\Debug\ReferencesToMethods.pdb
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\obj\Debug\ReferencesToMethods.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\obj\Debug\ReferencesToMethods.exe
+C:\Users\csadasiv\source\repos\Test\ReferencesToMethods\obj\Debug\ReferencesToMethods.pdb

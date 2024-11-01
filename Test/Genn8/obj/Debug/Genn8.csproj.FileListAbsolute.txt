@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Genn8\bin\Debug\Genn8.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn8\bin\Debug\Genn8.exe
+C:\Users\csadasiv\source\repos\Test\Genn8\bin\Debug\Genn8.pdb
+C:\Users\csadasiv\source\repos\Test\Genn8\obj\Debug\Genn8.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Genn8\obj\Debug\Genn8.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn8\obj\Debug\Genn8.exe
+C:\Users\csadasiv\source\repos\Test\Genn8\obj\Debug\Genn8.pdb

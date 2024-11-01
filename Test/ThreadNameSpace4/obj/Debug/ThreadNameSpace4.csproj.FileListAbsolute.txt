@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\bin\Debug\ThreadNameSpace4.exe.config
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\bin\Debug\ThreadNameSpace4.exe
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\bin\Debug\ThreadNameSpace4.pdb
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\obj\Debug\ThreadNameSpace4.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\obj\Debug\ThreadNameSpace4.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\obj\Debug\ThreadNameSpace4.exe
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace4\obj\Debug\ThreadNameSpace4.pdb

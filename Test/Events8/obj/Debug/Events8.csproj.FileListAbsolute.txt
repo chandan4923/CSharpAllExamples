@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Events8\bin\Debug\Events8.exe.config
+C:\Users\csadasiv\source\repos\Test\Events8\bin\Debug\Events8.exe
+C:\Users\csadasiv\source\repos\Test\Events8\bin\Debug\Events8.pdb
+C:\Users\csadasiv\source\repos\Test\Events8\obj\Debug\Events8.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Events8\obj\Debug\Events8.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Events8\obj\Debug\Events8.exe
+C:\Users\csadasiv\source\repos\Test\Events8\obj\Debug\Events8.pdb

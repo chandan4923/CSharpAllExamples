@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\bin\Debug\StaticClassFactory.exe.config
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\bin\Debug\StaticClassFactory.exe
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\bin\Debug\StaticClassFactory.pdb
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\obj\Debug\StaticClassFactory.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\obj\Debug\StaticClassFactory.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\obj\Debug\StaticClassFactory.exe
+C:\Users\csadasiv\source\repos\Test\StaticClassFactory\obj\Debug\StaticClassFactory.pdb

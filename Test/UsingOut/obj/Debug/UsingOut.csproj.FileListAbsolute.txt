@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\UsingOut\bin\Debug\UsingOut.exe.config
+C:\Users\csadasiv\source\repos\Test\UsingOut\bin\Debug\UsingOut.exe
+C:\Users\csadasiv\source\repos\Test\UsingOut\bin\Debug\UsingOut.pdb
+C:\Users\csadasiv\source\repos\Test\UsingOut\obj\Debug\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\UsingOut\obj\Debug\UsingOut.exe
+C:\Users\csadasiv\source\repos\Test\UsingOut\obj\Debug\UsingOut.pdb

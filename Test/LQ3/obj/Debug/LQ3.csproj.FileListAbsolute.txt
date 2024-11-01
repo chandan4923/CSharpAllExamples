@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\LQ3\bin\Debug\LQ3.exe.config
+C:\Users\csadasiv\source\repos\Test\LQ3\bin\Debug\LQ3.exe
+C:\Users\csadasiv\source\repos\Test\LQ3\bin\Debug\LQ3.pdb
+C:\Users\csadasiv\source\repos\Test\LQ3\obj\Debug\LQ3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\LQ3\obj\Debug\LQ3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\LQ3\obj\Debug\LQ3.exe
+C:\Users\csadasiv\source\repos\Test\LQ3\obj\Debug\LQ3.pdb

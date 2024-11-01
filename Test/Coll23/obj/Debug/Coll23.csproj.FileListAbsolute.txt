@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll23\bin\Debug\Coll23.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll23\bin\Debug\Coll23.exe
+C:\Users\csadasiv\source\repos\Test\Coll23\bin\Debug\Coll23.pdb
+C:\Users\csadasiv\source\repos\Test\Coll23\obj\Debug\Coll23.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll23\obj\Debug\Coll23.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll23\obj\Debug\Coll23.exe
+C:\Users\csadasiv\source\repos\Test\Coll23\obj\Debug\Coll23.pdb

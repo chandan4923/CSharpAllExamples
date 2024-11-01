@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\RPL9\bin\Debug\RPL9.exe.config
+C:\Users\csadasiv\source\repos\Test\RPL9\bin\Debug\RPL9.exe
+C:\Users\csadasiv\source\repos\Test\RPL9\bin\Debug\RPL9.pdb
+C:\Users\csadasiv\source\repos\Test\RPL9\obj\Debug\TPL9.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\RPL9\obj\Debug\TPL9.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\RPL9\obj\Debug\RPL9.exe
+C:\Users\csadasiv\source\repos\Test\RPL9\obj\Debug\RPL9.pdb

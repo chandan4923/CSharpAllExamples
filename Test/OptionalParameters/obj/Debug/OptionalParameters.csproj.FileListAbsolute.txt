@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\csadasiv\source\repos\Test\OptionalParameters\obj\Debug\OptionalParameters.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\bin\Debug\FailSafeArrayIndexer.exe.config
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\bin\Debug\FailSafeArrayIndexer.exe
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\bin\Debug\FailSafeArrayIndexer.pdb
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\obj\Debug\FailSafeArrayIndexer.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\obj\Debug\FailSafeArrayIndexer.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\obj\Debug\FailSafeArrayIndexer.exe
+C:\Users\csadasiv\source\repos\Test\FailSafeArrayIndexer\obj\Debug\FailSafeArrayIndexer.pdb

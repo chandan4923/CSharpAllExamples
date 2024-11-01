@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\TPL8\bin\Debug\TPL8.exe.config
+C:\Users\csadasiv\source\repos\Test\TPL8\bin\Debug\TPL8.exe
+C:\Users\csadasiv\source\repos\Test\TPL8\bin\Debug\TPL8.pdb
+C:\Users\csadasiv\source\repos\Test\TPL8\obj\Debug\TPL8.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\TPL8\obj\Debug\TPL8.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\TPL8\obj\Debug\TPL8.exe
+C:\Users\csadasiv\source\repos\Test\TPL8\obj\Debug\TPL8.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll12\bin\Debug\Coll12.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll12\bin\Debug\Coll12.exe
+C:\Users\csadasiv\source\repos\Test\Coll12\bin\Debug\Coll12.pdb
+C:\Users\csadasiv\source\repos\Test\Coll12\obj\Debug\Coll12.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll12\obj\Debug\Coll12.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll12\obj\Debug\Coll12.exe
+C:\Users\csadasiv\source\repos\Test\Coll12\obj\Debug\Coll12.pdb

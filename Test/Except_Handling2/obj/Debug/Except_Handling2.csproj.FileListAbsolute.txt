@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\bin\Debug\Except_Handling2.exe.config
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\bin\Debug\Except_Handling2.exe
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\bin\Debug\Except_Handling2.pdb
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\obj\Debug\Except_Handling2.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\obj\Debug\Except_Handling2.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\obj\Debug\Except_Handling2.exe
+C:\Users\csadasiv\source\repos\Test\Except_Handling2\obj\Debug\Except_Handling2.pdb

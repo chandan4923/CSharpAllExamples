@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll9\bin\Debug\Coll9.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll9\bin\Debug\Coll9.exe
+C:\Users\csadasiv\source\repos\Test\Coll9\bin\Debug\Coll9.pdb
+C:\Users\csadasiv\source\repos\Test\Coll9\obj\Debug\Coll9.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll9\obj\Debug\Coll9.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll9\obj\Debug\Coll9.exe
+C:\Users\csadasiv\source\repos\Test\Coll9\obj\Debug\Coll9.pdb

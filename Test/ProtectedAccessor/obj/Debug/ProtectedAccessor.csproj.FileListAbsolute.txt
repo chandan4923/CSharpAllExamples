@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\bin\Debug\ProtectedAccessor.exe.config
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\bin\Debug\ProtectedAccessor.exe
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\bin\Debug\ProtectedAccessor.pdb
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\obj\Debug\ProtectedAccessor.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\obj\Debug\ProtectedAccessor.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\obj\Debug\ProtectedAccessor.exe
+C:\Users\csadasiv\source\repos\Test\ProtectedAccessor\obj\Debug\ProtectedAccessor.pdb

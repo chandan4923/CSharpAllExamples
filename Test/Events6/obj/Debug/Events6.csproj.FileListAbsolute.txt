@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Events6\bin\Debug\Events6.exe.config
+C:\Users\csadasiv\source\repos\Test\Events6\bin\Debug\Events6.exe
+C:\Users\csadasiv\source\repos\Test\Events6\bin\Debug\Events6.pdb
+C:\Users\csadasiv\source\repos\Test\Events6\obj\Debug\Events6.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Events6\obj\Debug\Events6.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Events6\obj\Debug\Events6.exe
+C:\Users\csadasiv\source\repos\Test\Events6\obj\Debug\Events6.pdb

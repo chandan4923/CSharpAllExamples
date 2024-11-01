@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\bin\Debug\ReturnObjects.exe.config
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\bin\Debug\ReturnObjects.exe
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\bin\Debug\ReturnObjects.pdb
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\obj\Debug\ReturnObjects.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\obj\Debug\ReturnObjects.exe
+C:\Users\csadasiv\source\repos\Test\ReturnObjects\obj\Debug\ReturnObjects.pdb

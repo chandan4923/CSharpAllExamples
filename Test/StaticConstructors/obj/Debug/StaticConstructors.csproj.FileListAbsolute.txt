@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\bin\Debug\StaticConstructors.exe.config
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\bin\Debug\StaticConstructors.exe
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\bin\Debug\StaticConstructors.pdb
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\obj\Debug\StaticConstructors.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\obj\Debug\StaticConstructors.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\obj\Debug\StaticConstructors.exe
+C:\Users\csadasiv\source\repos\Test\StaticConstructors\obj\Debug\StaticConstructors.pdb

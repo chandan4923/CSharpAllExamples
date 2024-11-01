@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\Usereff\bin\Debug\Usereff.exe.config
+C:\Users\csadasiv\source\repos\Test\Usereff\bin\Debug\Usereff.exe
+C:\Users\csadasiv\source\repos\Test\Usereff\bin\Debug\Usereff.pdb
+C:\Users\csadasiv\source\repos\Test\Usereff\obj\Debug\Usereff.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Usereff\obj\Debug\Usereff.exe
+C:\Users\csadasiv\source\repos\Test\Usereff\obj\Debug\Usereff.pdb

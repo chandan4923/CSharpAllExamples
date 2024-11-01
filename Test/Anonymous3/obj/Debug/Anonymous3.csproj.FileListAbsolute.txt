@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Anonymous3\bin\Debug\Anonymous3.exe.config
+C:\Users\csadasiv\source\repos\Test\Anonymous3\bin\Debug\Anonymous3.exe
+C:\Users\csadasiv\source\repos\Test\Anonymous3\bin\Debug\Anonymous3.pdb
+C:\Users\csadasiv\source\repos\Test\Anonymous3\obj\Debug\Anonymous3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Anonymous3\obj\Debug\Anonymous3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Anonymous3\obj\Debug\Anonymous3.exe
+C:\Users\csadasiv\source\repos\Test\Anonymous3\obj\Debug\Anonymous3.pdb

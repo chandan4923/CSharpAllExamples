@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\StringTo\bin\Debug\StringTo.exe.config
+C:\Users\csadasiv\source\repos\Test\StringTo\bin\Debug\StringTo.exe
+C:\Users\csadasiv\source\repos\Test\StringTo\bin\Debug\StringTo.pdb
+C:\Users\csadasiv\source\repos\Test\StringTo\obj\Debug\StringTo.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\StringTo\obj\Debug\StringTo.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\StringTo\obj\Debug\StringTo.exe
+C:\Users\csadasiv\source\repos\Test\StringTo\obj\Debug\StringTo.pdb

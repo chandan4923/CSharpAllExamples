@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\bin\Debug\IncompatibleRef.exe.config
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\bin\Debug\IncompatibleRef.exe
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\bin\Debug\IncompatibleRef.pdb
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\obj\Debug\IncompatibleRef.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\obj\Debug\IncompatibleRef.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\obj\Debug\IncompatibleRef.exe
+C:\Users\csadasiv\source\repos\Test\IncompatibleRef\obj\Debug\IncompatibleRef.pdb

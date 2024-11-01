@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Lambda3\bin\Debug\Lambda3.exe.config
+C:\Users\csadasiv\source\repos\Test\Lambda3\bin\Debug\Lambda3.exe
+C:\Users\csadasiv\source\repos\Test\Lambda3\bin\Debug\Lambda3.pdb
+C:\Users\csadasiv\source\repos\Test\Lambda3\obj\Debug\Lambda3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Lambda3\obj\Debug\Lambda3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Lambda3\obj\Debug\Lambda3.exe
+C:\Users\csadasiv\source\repos\Test\Lambda3\obj\Debug\Lambda3.pdb

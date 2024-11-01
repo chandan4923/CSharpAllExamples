@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\bin\Debug\CheckedAndUnchecked.exe.config
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\bin\Debug\CheckedAndUnchecked.exe
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\bin\Debug\CheckedAndUnchecked.pdb
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\obj\Debug\CheckedAndUnchecked.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\obj\Debug\CheckedAndUnchecked.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\obj\Debug\CheckedAndUnchecked.exe
+C:\Users\csadasiv\source\repos\Test\CheckedAndUnchecked\obj\Debug\CheckedAndUnchecked.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Genn20\bin\Debug\Genn20.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn20\bin\Debug\Genn20.exe
+C:\Users\csadasiv\source\repos\Test\Genn20\bin\Debug\Genn20.pdb
+C:\Users\csadasiv\source\repos\Test\Genn20\obj\Debug\Genn20.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Genn20\obj\Debug\Genn20.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn20\obj\Debug\Genn20.exe
+C:\Users\csadasiv\source\repos\Test\Genn20\obj\Debug\Genn20.pdb

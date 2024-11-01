@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll19\obj\Debug\Coll19.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll19\obj\Debug\Coll19.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll19\bin\Debug\Coll19.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll19\bin\Debug\Coll19.exe
+C:\Users\csadasiv\source\repos\Test\Coll19\bin\Debug\Coll19.pdb
+C:\Users\csadasiv\source\repos\Test\Coll19\obj\Debug\Coll19.exe
+C:\Users\csadasiv\source\repos\Test\Coll19\obj\Debug\Coll19.pdb

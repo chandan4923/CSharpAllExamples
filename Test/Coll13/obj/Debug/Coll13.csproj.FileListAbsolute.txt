@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\Coll13\bin\Debug\Coll13.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll13\bin\Debug\Coll13.exe
+C:\Users\csadasiv\source\repos\Test\Coll13\bin\Debug\Coll13.pdb
+C:\Users\csadasiv\source\repos\Test\Coll13\obj\Debug\Coll13.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll13\obj\Debug\Coll13.exe
+C:\Users\csadasiv\source\repos\Test\Coll13\obj\Debug\Coll13.pdb

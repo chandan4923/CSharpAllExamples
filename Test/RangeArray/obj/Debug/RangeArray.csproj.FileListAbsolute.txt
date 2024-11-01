@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\RangeArray\bin\Debug\RangeArray.exe.config
+C:\Users\csadasiv\source\repos\Test\RangeArray\bin\Debug\RangeArray.exe
+C:\Users\csadasiv\source\repos\Test\RangeArray\bin\Debug\RangeArray.pdb
+C:\Users\csadasiv\source\repos\Test\RangeArray\obj\Debug\RangeArray.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\RangeArray\obj\Debug\RangeArray.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\RangeArray\obj\Debug\RangeArray.exe
+C:\Users\csadasiv\source\repos\Test\RangeArray\obj\Debug\RangeArray.pdb

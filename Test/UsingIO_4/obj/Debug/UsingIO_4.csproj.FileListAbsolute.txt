@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\bin\Debug\UsingIO_4.exe.config
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\bin\Debug\UsingIO_4.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\bin\Debug\UsingIO_4.pdb
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\obj\Debug\UsingIO_4.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\obj\Debug\UsingIO_4.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\obj\Debug\UsingIO_4.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO_4\obj\Debug\UsingIO_4.pdb

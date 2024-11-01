@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\bin\Debug\PassArgumentsToMain.exe.config
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\bin\Debug\PassArgumentsToMain.exe
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\bin\Debug\PassArgumentsToMain.pdb
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\obj\Debug\PassArgumentsToMain.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\obj\Debug\PassArgumentsToMain.exe
+C:\Users\csadasiv\source\repos\Test\PassArgumentsToMain\obj\Debug\PassArgumentsToMain.pdb

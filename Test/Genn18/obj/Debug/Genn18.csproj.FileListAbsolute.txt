@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Genn18\bin\Debug\Genn18.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn18\bin\Debug\Genn18.exe
+C:\Users\csadasiv\source\repos\Test\Genn18\bin\Debug\Genn18.pdb
+C:\Users\csadasiv\source\repos\Test\Genn18\obj\Debug\Genn18.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Genn18\obj\Debug\Genn18.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn18\obj\Debug\Genn18.exe
+C:\Users\csadasiv\source\repos\Test\Genn18\obj\Debug\Genn18.pdb

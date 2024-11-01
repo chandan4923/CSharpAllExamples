@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\bin\Debug\OperatorOverloadingNybble.exe.config
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\bin\Debug\OperatorOverloadingNybble.exe
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\bin\Debug\OperatorOverloadingNybble.pdb
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\obj\Debug\OperatorOverloadingNybble.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\obj\Debug\OperatorOverloadingNybble.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\obj\Debug\OperatorOverloadingNybble.exe
+C:\Users\csadasiv\source\repos\Test\OperatorOverloadingNybble\obj\Debug\OperatorOverloadingNybble.pdb

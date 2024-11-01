@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\Genn12\bin\Debug\Genn12.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn12\bin\Debug\Genn12.exe
+C:\Users\csadasiv\source\repos\Test\Genn12\bin\Debug\Genn12.pdb
+C:\Users\csadasiv\source\repos\Test\Genn12\obj\Debug\Genn12.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn12\obj\Debug\Genn12.exe
+C:\Users\csadasiv\source\repos\Test\Genn12\obj\Debug\Genn12.pdb

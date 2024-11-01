@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\TestNamespace\obj\Debug\TestNamespace.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\TestNamespace\obj\Debug\TestNamespace.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\TestNamespace\bin\Debug\TestNamespace.exe.config
+C:\Users\csadasiv\source\repos\Test\TestNamespace\bin\Debug\TestNamespace.exe
+C:\Users\csadasiv\source\repos\Test\TestNamespace\bin\Debug\TestNamespace.pdb
+C:\Users\csadasiv\source\repos\Test\TestNamespace\obj\Debug\TestNamespace.exe
+C:\Users\csadasiv\source\repos\Test\TestNamespace\obj\Debug\TestNamespace.pdb

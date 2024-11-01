@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\RTTID\bin\Debug\RTTID.exe.config
+C:\Users\csadasiv\source\repos\Test\RTTID\bin\Debug\RTTID.exe
+C:\Users\csadasiv\source\repos\Test\RTTID\bin\Debug\RTTID.pdb
+C:\Users\csadasiv\source\repos\Test\RTTID\obj\Debug\RTTID.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\RTTID\obj\Debug\RTTID.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\RTTID\obj\Debug\RTTID.exe
+C:\Users\csadasiv\source\repos\Test\RTTID\obj\Debug\RTTID.pdb

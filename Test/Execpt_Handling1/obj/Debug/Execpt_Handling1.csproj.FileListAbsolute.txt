@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\bin\Debug\Execpt_Handling1.exe.config
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\bin\Debug\Execpt_Handling1.exe
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\bin\Debug\Execpt_Handling1.pdb
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\obj\Debug\Execpt_Handling1.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\obj\Debug\Execpt_Handling1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\obj\Debug\Execpt_Handling1.exe
+C:\Users\csadasiv\source\repos\Test\Execpt_Handling1\obj\Debug\Execpt_Handling1.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\bin\Debug\ConversionOperator.exe.config
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\bin\Debug\ConversionOperator.exe
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\bin\Debug\ConversionOperator.pdb
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\obj\Debug\ConversionOperator.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\obj\Debug\ConversionOperator.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\obj\Debug\ConversionOperator.exe
+C:\Users\csadasiv\source\repos\Test\ConversionOperator\obj\Debug\ConversionOperator.pdb

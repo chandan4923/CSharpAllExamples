@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\bin\Debug\Excep_Handling5.exe.config
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\bin\Debug\Excep_Handling5.exe
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\bin\Debug\Excep_Handling5.pdb
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\obj\Debug\Excep_Handling5.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\obj\Debug\Excep_Handling5.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\obj\Debug\Excep_Handling5.exe
+C:\Users\csadasiv\source\repos\Test\Excep_Handling5\obj\Debug\Excep_Handling5.pdb

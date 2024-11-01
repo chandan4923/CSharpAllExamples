@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Genn5\bin\Debug\Genn5.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn5\bin\Debug\Genn5.exe
+C:\Users\csadasiv\source\repos\Test\Genn5\bin\Debug\Genn5.pdb
+C:\Users\csadasiv\source\repos\Test\Genn5\obj\Debug\Genn5.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Genn5\obj\Debug\Genn5.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn5\obj\Debug\Genn5.exe
+C:\Users\csadasiv\source\repos\Test\Genn5\obj\Debug\Genn5.pdb

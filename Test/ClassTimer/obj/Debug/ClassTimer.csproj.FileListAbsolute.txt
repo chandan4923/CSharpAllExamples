@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ClassTimer\bin\Debug\ClassTimer.exe.config
+C:\Users\csadasiv\source\repos\Test\ClassTimer\bin\Debug\ClassTimer.exe
+C:\Users\csadasiv\source\repos\Test\ClassTimer\bin\Debug\ClassTimer.pdb
+C:\Users\csadasiv\source\repos\Test\ClassTimer\obj\Debug\ClassTimer.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ClassTimer\obj\Debug\ClassTimer.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ClassTimer\obj\Debug\ClassTimer.exe
+C:\Users\csadasiv\source\repos\Test\ClassTimer\obj\Debug\ClassTimer.pdb

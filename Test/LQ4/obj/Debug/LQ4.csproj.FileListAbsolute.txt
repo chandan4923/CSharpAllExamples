@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\LQ4\bin\Debug\LQ4.exe.config
+C:\Users\csadasiv\source\repos\Test\LQ4\bin\Debug\LQ4.exe
+C:\Users\csadasiv\source\repos\Test\LQ4\bin\Debug\LQ4.pdb
+C:\Users\csadasiv\source\repos\Test\LQ4\obj\Debug\LQ4.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\LQ4\obj\Debug\LQ4.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\LQ4\obj\Debug\LQ4.exe
+C:\Users\csadasiv\source\repos\Test\LQ4\obj\Debug\LQ4.pdb

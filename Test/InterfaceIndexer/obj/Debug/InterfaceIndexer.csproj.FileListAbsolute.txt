@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\bin\Debug\InterfaceIndexer.exe.config
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\bin\Debug\InterfaceIndexer.exe
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\bin\Debug\InterfaceIndexer.pdb
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\obj\Debug\InterfaceIndexer.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\obj\Debug\InterfaceIndexer.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\obj\Debug\InterfaceIndexer.exe
+C:\Users\csadasiv\source\repos\Test\InterfaceIndexer\obj\Debug\InterfaceIndexer.pdb

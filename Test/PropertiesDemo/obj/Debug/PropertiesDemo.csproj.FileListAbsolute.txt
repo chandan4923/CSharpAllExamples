@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Users\csadasiv\source\repos\Test\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

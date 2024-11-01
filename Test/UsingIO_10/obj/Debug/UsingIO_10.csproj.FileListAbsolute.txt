@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\bin\Debug\UsingIO_10.exe.config
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\bin\Debug\UsingIO_10.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\bin\Debug\UsingIO_10.pdb
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\obj\Debug\UsingIO_10.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\obj\Debug\UsingIO_10.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\obj\Debug\UsingIO_10.exe
+C:\Users\csadasiv\source\repos\Test\UsingIO_10\obj\Debug\UsingIO_10.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\obj\Debug\CallingBaseClassConstructor.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\obj\Debug\CallingBaseClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\bin\Debug\CallingBaseClassConstructor.exe.config
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\bin\Debug\CallingBaseClassConstructor.exe
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\bin\Debug\CallingBaseClassConstructor.pdb
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\obj\Debug\CallingBaseClassConstructor.exe
+C:\Users\csadasiv\source\repos\Test\CallingBaseClassConstructor\obj\Debug\CallingBaseClassConstructor.pdb

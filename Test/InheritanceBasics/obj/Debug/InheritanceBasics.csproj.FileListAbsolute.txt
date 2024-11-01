@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\bin\Debug\InheritanceBasics.exe.config
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\bin\Debug\InheritanceBasics.exe
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\bin\Debug\InheritanceBasics.pdb
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\obj\Debug\InheritanceBasics.exe
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\obj\Debug\InheritanceBasics.pdb
+C:\Users\csadasiv\source\repos\Test\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.AssemblyReference.cache

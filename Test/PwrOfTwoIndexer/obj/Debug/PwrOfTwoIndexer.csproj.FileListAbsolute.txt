@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\bin\Debug\PwrOfTwoIndexer.exe.config
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\bin\Debug\PwrOfTwoIndexer.exe
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\bin\Debug\PwrOfTwoIndexer.pdb
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\obj\Debug\PwrOfTwoIndexer.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\obj\Debug\PwrOfTwoIndexer.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\obj\Debug\PwrOfTwoIndexer.exe
+C:\Users\csadasiv\source\repos\Test\PwrOfTwoIndexer\obj\Debug\PwrOfTwoIndexer.pdb

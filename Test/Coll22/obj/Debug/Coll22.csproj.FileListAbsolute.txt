@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll22\bin\Debug\Coll22.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll22\bin\Debug\Coll22.exe
+C:\Users\csadasiv\source\repos\Test\Coll22\bin\Debug\Coll22.pdb
+C:\Users\csadasiv\source\repos\Test\Coll22\obj\Debug\Coll22.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll22\obj\Debug\Coll22.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll22\obj\Debug\Coll22.exe
+C:\Users\csadasiv\source\repos\Test\Coll22\obj\Debug\Coll22.pdb

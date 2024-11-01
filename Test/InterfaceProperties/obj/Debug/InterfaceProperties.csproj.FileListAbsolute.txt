@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\bin\Debug\InterfaceProperties.exe.config
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\bin\Debug\InterfaceProperties.exe
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\bin\Debug\InterfaceProperties.pdb
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\obj\Debug\InterfaceProperties.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\obj\Debug\InterfaceProperties.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\obj\Debug\InterfaceProperties.exe
+C:\Users\csadasiv\source\repos\Test\InterfaceProperties\obj\Debug\InterfaceProperties.pdb

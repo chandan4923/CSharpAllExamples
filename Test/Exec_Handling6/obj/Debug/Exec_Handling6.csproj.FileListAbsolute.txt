@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\bin\Debug\Exec_Handling6.exe.config
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\bin\Debug\Exec_Handling6.exe
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\bin\Debug\Exec_Handling6.pdb
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\obj\Debug\Exec_Handling6.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\obj\Debug\Exec_Handling6.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\obj\Debug\Exec_Handling6.exe
+C:\Users\csadasiv\source\repos\Test\Exec_Handling6\obj\Debug\Exec_Handling6.pdb

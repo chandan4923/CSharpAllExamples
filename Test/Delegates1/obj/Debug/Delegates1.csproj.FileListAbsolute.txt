@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Delegates1\bin\Debug\Delegates1.exe.config
+C:\Users\csadasiv\source\repos\Test\Delegates1\bin\Debug\Delegates1.exe
+C:\Users\csadasiv\source\repos\Test\Delegates1\bin\Debug\Delegates1.pdb
+C:\Users\csadasiv\source\repos\Test\Delegates1\obj\Debug\Delegates1.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Delegates1\obj\Debug\Delegates1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Delegates1\obj\Debug\Delegates1.exe
+C:\Users\csadasiv\source\repos\Test\Delegates1\obj\Debug\Delegates1.pdb

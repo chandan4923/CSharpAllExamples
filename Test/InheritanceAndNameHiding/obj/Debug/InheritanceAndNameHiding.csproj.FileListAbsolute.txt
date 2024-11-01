@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\bin\Debug\InheritanceAndNameHiding.exe.config
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\bin\Debug\InheritanceAndNameHiding.exe
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\bin\Debug\InheritanceAndNameHiding.pdb
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\obj\Debug\InheritanceAndNameHiding.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\obj\Debug\InheritanceAndNameHiding.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\obj\Debug\InheritanceAndNameHiding.exe
+C:\Users\csadasiv\source\repos\Test\InheritanceAndNameHiding\obj\Debug\InheritanceAndNameHiding.pdb

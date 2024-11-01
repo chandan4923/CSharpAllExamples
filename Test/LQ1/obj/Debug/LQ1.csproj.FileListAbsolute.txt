@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\LQ1\bin\Debug\LQ1.exe.config
+C:\Users\csadasiv\source\repos\Test\LQ1\bin\Debug\LQ1.exe
+C:\Users\csadasiv\source\repos\Test\LQ1\bin\Debug\LQ1.pdb
+C:\Users\csadasiv\source\repos\Test\LQ1\obj\Debug\LQ1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\LQ1\obj\Debug\LQ1.exe
+C:\Users\csadasiv\source\repos\Test\LQ1\obj\Debug\LQ1.pdb

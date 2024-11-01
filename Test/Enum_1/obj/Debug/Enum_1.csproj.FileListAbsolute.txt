@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\Enum_1\bin\Debug\Enum_1.exe.config
+C:\Users\csadasiv\source\repos\Test\Enum_1\bin\Debug\Enum_1.exe
+C:\Users\csadasiv\source\repos\Test\Enum_1\bin\Debug\Enum_1.pdb
+C:\Users\csadasiv\source\repos\Test\Enum_1\obj\Debug\Enum_1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Enum_1\obj\Debug\Enum_1.exe
+C:\Users\csadasiv\source\repos\Test\Enum_1\obj\Debug\Enum_1.pdb

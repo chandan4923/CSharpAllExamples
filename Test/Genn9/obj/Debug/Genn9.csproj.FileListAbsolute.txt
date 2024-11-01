@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Genn9\bin\Debug\Genn9.exe.config
+C:\Users\csadasiv\source\repos\Test\Genn9\bin\Debug\Genn9.exe
+C:\Users\csadasiv\source\repos\Test\Genn9\bin\Debug\Genn9.pdb
+C:\Users\csadasiv\source\repos\Test\Genn9\obj\Debug\Genn9.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Genn9\obj\Debug\Genn9.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Genn9\obj\Debug\Genn9.exe
+C:\Users\csadasiv\source\repos\Test\Genn9\obj\Debug\Genn9.pdb

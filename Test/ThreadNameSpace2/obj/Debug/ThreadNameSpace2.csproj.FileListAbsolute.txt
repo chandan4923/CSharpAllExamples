@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\bin\Debug\ThreadNameSpace2.exe.config
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\bin\Debug\ThreadNameSpace2.exe
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\bin\Debug\ThreadNameSpace2.pdb
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\obj\Debug\ThreadNameSpace2.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\obj\Debug\ThreadNameSpace2.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\obj\Debug\ThreadNameSpace2.exe
+C:\Users\csadasiv\source\repos\Test\ThreadNameSpace2\obj\Debug\ThreadNameSpace2.pdb

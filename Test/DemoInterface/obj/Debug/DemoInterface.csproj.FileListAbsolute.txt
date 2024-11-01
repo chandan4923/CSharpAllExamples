@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\DemoInterface\bin\Debug\DemoInterface.exe.config
+C:\Users\csadasiv\source\repos\Test\DemoInterface\bin\Debug\DemoInterface.exe
+C:\Users\csadasiv\source\repos\Test\DemoInterface\bin\Debug\DemoInterface.pdb
+C:\Users\csadasiv\source\repos\Test\DemoInterface\obj\Debug\DemoInterface.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\DemoInterface\obj\Debug\DemoInterface.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\DemoInterface\obj\Debug\DemoInterface.exe
+C:\Users\csadasiv\source\repos\Test\DemoInterface\obj\Debug\DemoInterface.pdb

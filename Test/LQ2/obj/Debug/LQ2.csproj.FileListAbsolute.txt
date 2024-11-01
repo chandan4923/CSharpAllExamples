@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\LQ2\bin\Debug\LQ2.exe.config
+C:\Users\csadasiv\source\repos\Test\LQ2\bin\Debug\LQ2.exe
+C:\Users\csadasiv\source\repos\Test\LQ2\bin\Debug\LQ2.pdb
+C:\Users\csadasiv\source\repos\Test\LQ2\obj\Debug\LQ2.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\LQ2\obj\Debug\LQ2.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\LQ2\obj\Debug\LQ2.exe
+C:\Users\csadasiv\source\repos\Test\LQ2\obj\Debug\LQ2.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\TPL7\obj\Debug\TPL7.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\TPL7\obj\Debug\TPL7.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\TPL7\bin\Debug\TPL7.exe.config
+C:\Users\csadasiv\source\repos\Test\TPL7\bin\Debug\TPL7.exe
+C:\Users\csadasiv\source\repos\Test\TPL7\bin\Debug\TPL7.pdb
+C:\Users\csadasiv\source\repos\Test\TPL7\obj\Debug\TPL7.exe
+C:\Users\csadasiv\source\repos\Test\TPL7\obj\Debug\TPL7.pdb

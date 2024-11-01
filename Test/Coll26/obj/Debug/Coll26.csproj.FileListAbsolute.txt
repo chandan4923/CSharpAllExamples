@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll26\bin\Debug\Coll26.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll26\bin\Debug\Coll26.exe
+C:\Users\csadasiv\source\repos\Test\Coll26\bin\Debug\Coll26.pdb
+C:\Users\csadasiv\source\repos\Test\Coll26\obj\Debug\Coll26.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll26\obj\Debug\Coll26.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll26\obj\Debug\Coll26.exe
+C:\Users\csadasiv\source\repos\Test\Coll26\obj\Debug\Coll26.pdb

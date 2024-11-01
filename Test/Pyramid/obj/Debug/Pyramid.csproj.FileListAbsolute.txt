@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Pyramid\bin\Debug\Pyramid.exe.config
+C:\Users\csadasiv\source\repos\Test\Pyramid\bin\Debug\Pyramid.exe
+C:\Users\csadasiv\source\repos\Test\Pyramid\bin\Debug\Pyramid.pdb
+C:\Users\csadasiv\source\repos\Test\Pyramid\obj\Debug\Pyramid.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Pyramid\obj\Debug\Pyramid.exe
+C:\Users\csadasiv\source\repos\Test\Pyramid\obj\Debug\Pyramid.pdb

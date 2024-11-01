@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll3\obj\Debug\Coll3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll3\obj\Debug\Coll3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll3\bin\Debug\Coll3.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll3\bin\Debug\Coll3.exe
+C:\Users\csadasiv\source\repos\Test\Coll3\bin\Debug\Coll3.pdb
+C:\Users\csadasiv\source\repos\Test\Coll3\obj\Debug\Coll3.exe
+C:\Users\csadasiv\source\repos\Test\Coll3\obj\Debug\Coll3.pdb

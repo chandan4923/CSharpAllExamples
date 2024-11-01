@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Struct_Class\bin\Debug\Struct_Class.exe.config
+C:\Users\csadasiv\source\repos\Test\Struct_Class\bin\Debug\Struct_Class.exe
+C:\Users\csadasiv\source\repos\Test\Struct_Class\bin\Debug\Struct_Class.pdb
+C:\Users\csadasiv\source\repos\Test\Struct_Class\obj\Debug\Struct_Class.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Struct_Class\obj\Debug\Struct_Class.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Struct_Class\obj\Debug\Struct_Class.exe
+C:\Users\csadasiv\source\repos\Test\Struct_Class\obj\Debug\Struct_Class.pdb

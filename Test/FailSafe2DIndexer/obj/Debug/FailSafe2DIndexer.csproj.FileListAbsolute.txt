@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\bin\Debug\FailSafe2DIndexer.exe.config
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\bin\Debug\FailSafe2DIndexer.exe
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\bin\Debug\FailSafe2DIndexer.pdb
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\obj\Debug\FailSafe2DIndexer.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\obj\Debug\FailSafe2DIndexer.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\obj\Debug\FailSafe2DIndexer.exe
+C:\Users\csadasiv\source\repos\Test\FailSafe2DIndexer\obj\Debug\FailSafe2DIndexer.pdb

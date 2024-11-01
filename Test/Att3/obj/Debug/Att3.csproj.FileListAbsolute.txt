@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Att3\bin\Debug\Att3.exe.config
+C:\Users\csadasiv\source\repos\Test\Att3\bin\Debug\Att3.exe
+C:\Users\csadasiv\source\repos\Test\Att3\bin\Debug\Att3.pdb
+C:\Users\csadasiv\source\repos\Test\Att3\obj\Debug\Att3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Att3\obj\Debug\Att3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Att3\obj\Debug\Att3.exe
+C:\Users\csadasiv\source\repos\Test\Att3\obj\Debug\Att3.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\USafe1\bin\Debug\USafe1.exe.config
+C:\Users\csadasiv\source\repos\Test\USafe1\bin\Debug\USafe1.exe
+C:\Users\csadasiv\source\repos\Test\USafe1\bin\Debug\USafe1.pdb
+C:\Users\csadasiv\source\repos\Test\USafe1\obj\Debug\USafe1.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\USafe1\obj\Debug\USafe1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\USafe1\obj\Debug\USafe1.exe
+C:\Users\csadasiv\source\repos\Test\USafe1\obj\Debug\USafe1.pdb

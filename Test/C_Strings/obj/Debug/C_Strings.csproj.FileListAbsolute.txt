@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\C_Strings\bin\Debug\C_Strings.exe.config
+C:\Users\csadasiv\source\repos\Test\C_Strings\bin\Debug\C_Strings.exe
+C:\Users\csadasiv\source\repos\Test\C_Strings\bin\Debug\C_Strings.pdb
+C:\Users\csadasiv\source\repos\Test\C_Strings\obj\Debug\C_Strings.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\C_Strings\obj\Debug\C_Strings.exe
+C:\Users\csadasiv\source\repos\Test\C_Strings\obj\Debug\C_Strings.pdb

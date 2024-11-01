@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll5\bin\Debug\Coll5.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll5\bin\Debug\Coll5.exe
+C:\Users\csadasiv\source\repos\Test\Coll5\bin\Debug\Coll5.pdb
+C:\Users\csadasiv\source\repos\Test\Coll5\obj\Debug\Coll5.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll5\obj\Debug\Coll5.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll5\obj\Debug\Coll5.exe
+C:\Users\csadasiv\source\repos\Test\Coll5\obj\Debug\Coll5.pdb

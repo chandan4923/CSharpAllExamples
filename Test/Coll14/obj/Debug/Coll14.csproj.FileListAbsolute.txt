@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll14\bin\Debug\Coll14.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll14\bin\Debug\Coll14.exe
+C:\Users\csadasiv\source\repos\Test\Coll14\bin\Debug\Coll14.pdb
+C:\Users\csadasiv\source\repos\Test\Coll14\obj\Debug\Coll14.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll14\obj\Debug\Coll14.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll14\obj\Debug\Coll14.exe
+C:\Users\csadasiv\source\repos\Test\Coll14\obj\Debug\Coll14.pdb

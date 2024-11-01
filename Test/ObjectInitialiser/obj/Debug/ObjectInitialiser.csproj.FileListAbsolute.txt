@@ -1,0 +1,6 @@
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\bin\Debug\ObjectInitialiser.exe.config
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\bin\Debug\ObjectInitialiser.exe
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\bin\Debug\ObjectInitialiser.pdb
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\obj\Debug\ObjectInitialiser.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\obj\Debug\ObjectInitialiser.exe
+C:\Users\csadasiv\source\repos\Test\ObjectInitialiser\obj\Debug\ObjectInitialiser.pdb

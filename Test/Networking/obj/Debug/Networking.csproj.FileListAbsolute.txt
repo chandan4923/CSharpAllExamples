@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Networking\bin\Debug\Networking.exe.config
+C:\Users\csadasiv\source\repos\Test\Networking\bin\Debug\Networking.exe
+C:\Users\csadasiv\source\repos\Test\Networking\bin\Debug\Networking.pdb
+C:\Users\csadasiv\source\repos\Test\Networking\obj\Debug\Networking.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Networking\obj\Debug\Networking.exe
+C:\Users\csadasiv\source\repos\Test\Networking\obj\Debug\Networking.pdb

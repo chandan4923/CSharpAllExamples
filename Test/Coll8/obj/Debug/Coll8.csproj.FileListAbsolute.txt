@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Coll8\bin\Debug\Coll8.exe.config
+C:\Users\csadasiv\source\repos\Test\Coll8\bin\Debug\Coll8.exe
+C:\Users\csadasiv\source\repos\Test\Coll8\bin\Debug\Coll8.pdb
+C:\Users\csadasiv\source\repos\Test\Coll8\obj\Debug\Coll8.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Coll8\obj\Debug\Coll8.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Coll8\obj\Debug\Coll8.exe
+C:\Users\csadasiv\source\repos\Test\Coll8\obj\Debug\Coll8.pdb

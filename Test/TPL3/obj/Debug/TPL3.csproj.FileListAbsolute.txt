@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\TPL3\bin\Debug\TPL3.exe.config
+C:\Users\csadasiv\source\repos\Test\TPL3\bin\Debug\TPL3.exe
+C:\Users\csadasiv\source\repos\Test\TPL3\bin\Debug\TPL3.pdb
+C:\Users\csadasiv\source\repos\Test\TPL3\obj\Debug\TPL3.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\TPL3\obj\Debug\TPL3.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\TPL3\obj\Debug\TPL3.exe
+C:\Users\csadasiv\source\repos\Test\TPL3\obj\Debug\TPL3.pdb

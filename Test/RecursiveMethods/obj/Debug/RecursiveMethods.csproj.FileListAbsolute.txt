@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\bin\Debug\RecursiveMethods.exe.config
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\bin\Debug\RecursiveMethods.exe
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\bin\Debug\RecursiveMethods.pdb
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\obj\Debug\RecursiveMethods.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\obj\Debug\RecursiveMethods.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\obj\Debug\RecursiveMethods.exe
+C:\Users\csadasiv\source\repos\Test\RecursiveMethods\obj\Debug\RecursiveMethods.pdb

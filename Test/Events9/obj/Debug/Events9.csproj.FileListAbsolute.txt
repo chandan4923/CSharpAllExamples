@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Events9\bin\Debug\Events9.exe.config
+C:\Users\csadasiv\source\repos\Test\Events9\bin\Debug\Events9.exe
+C:\Users\csadasiv\source\repos\Test\Events9\bin\Debug\Events9.pdb
+C:\Users\csadasiv\source\repos\Test\Events9\obj\Debug\Events9.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Events9\obj\Debug\Events9.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Events9\obj\Debug\Events9.exe
+C:\Users\csadasiv\source\repos\Test\Events9\obj\Debug\Events9.pdb

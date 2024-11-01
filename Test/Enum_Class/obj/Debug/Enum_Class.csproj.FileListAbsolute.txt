@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Enum_Class\bin\Debug\Enum_Class.exe.config
+C:\Users\csadasiv\source\repos\Test\Enum_Class\bin\Debug\Enum_Class.exe
+C:\Users\csadasiv\source\repos\Test\Enum_Class\bin\Debug\Enum_Class.pdb
+C:\Users\csadasiv\source\repos\Test\Enum_Class\obj\Debug\Enum_Class.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Enum_Class\obj\Debug\Enum_Class.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Enum_Class\obj\Debug\Enum_Class.exe
+C:\Users\csadasiv\source\repos\Test\Enum_Class\obj\Debug\Enum_Class.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Thread\bin\Debug\Thread.exe.config
+C:\Users\csadasiv\source\repos\Test\Thread\bin\Debug\Thread.exe
+C:\Users\csadasiv\source\repos\Test\Thread\bin\Debug\Thread.pdb
+C:\Users\csadasiv\source\repos\Test\Thread\obj\Debug\ThreadNamespace.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Thread\obj\Debug\ThreadNamespace.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Thread\obj\Debug\Thread.exe
+C:\Users\csadasiv\source\repos\Test\Thread\obj\Debug\Thread.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Reflections\bin\Debug\Reflections.exe.config
+C:\Users\csadasiv\source\repos\Test\Reflections\bin\Debug\Reflections.exe
+C:\Users\csadasiv\source\repos\Test\Reflections\bin\Debug\Reflections.pdb
+C:\Users\csadasiv\source\repos\Test\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Reflections\obj\Debug\Reflections.exe
+C:\Users\csadasiv\source\repos\Test\Reflections\obj\Debug\Reflections.pdb

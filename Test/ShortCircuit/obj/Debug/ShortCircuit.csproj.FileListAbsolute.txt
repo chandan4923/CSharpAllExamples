@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\bin\Debug\ShortCircuit.exe.config
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\bin\Debug\ShortCircuit.exe
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\bin\Debug\ShortCircuit.pdb
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\obj\Debug\ShortCircuit.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\obj\Debug\ShortCircuit.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\obj\Debug\ShortCircuit.exe
+C:\Users\csadasiv\source\repos\Test\ShortCircuit\obj\Debug\ShortCircuit.pdb

@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\bin\Debug\AccessModifiersAccessors.exe.config
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\bin\Debug\AccessModifiersAccessors.exe
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\bin\Debug\AccessModifiersAccessors.pdb
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\obj\Debug\AccessModifiersAccessors.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\obj\Debug\AccessModifiersAccessors.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\obj\Debug\AccessModifiersAccessors.exe
+C:\Users\csadasiv\source\repos\Test\AccessModifiersAccessors\obj\Debug\AccessModifiersAccessors.pdb

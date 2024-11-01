@@ -1,0 +1,7 @@
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\bin\Debug\Preprocessor1.exe.config
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\bin\Debug\Preprocessor1.exe
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\bin\Debug\Preprocessor1.pdb
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\obj\Debug\Preprocessor1.csproj.AssemblyReference.cache
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\obj\Debug\Preprocessor1.csproj.CoreCompileInputs.cache
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\obj\Debug\Preprocessor1.exe
+C:\Users\csadasiv\source\repos\Test\Preprocessor1\obj\Debug\Preprocessor1.pdb
